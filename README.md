@@ -25,6 +25,14 @@ _GNI_: The World Bank (publisher). Sourced from: GNI per capita, Atlas method (c
 
 _LPI_: Sourced from: Arvis, J.F., Ojala, L., Wiederer, C., Shepherd, B., Raj, A., Dairabayeva, K., Kiiski, T. (2018) Connecting to compete 2018: Trade logistics in the global economy. World Bank, Washington, DC 
 
+**Figures**
+
+ITRI: https://zarishabbas.github.io/resource-availability/figures/ITRI.html
+
+RAI: https://zarishabbas.github.io/resource-availability/figures/RAI.html
+
+SSI: https://zarishabbas.github.io/resource-availability/figures/SSI.html
+
 _ECOG_: KOF Swiss Wconomic Instititute (publisher). Sourced from: https://ethz.ch/content/dam/ethz/special-interest/dual/kof-dam/documents/Globalization/2022/KOFGI_2022_public.xlsx
 
 _SCOG_: KOF Swiss Wconomic Instititute (publisher). Sourced from: https://ethz.ch/content/dam/ethz/special-interest/dual/kof-dam/documents/Globalization/2022/KOFGI_2022_public.xlsx
